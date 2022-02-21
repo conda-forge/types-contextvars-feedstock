@@ -1,5 +1,5 @@
 {% set name = "types-contextvars" %}
-{% set version = "2.4.2" %}
+{% set version = "2.4.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-contextvars-{{ version }}.tar.gz
-  sha256: 1a1b776ca6ce34659d51996f5412e18bc44df147b63470042bee55742300401c
+  sha256: 693287abc4047cc8287d5df4f01fd777aaf736b550d6a07205fb88664c62c77e
 
 build:
   number: 0
